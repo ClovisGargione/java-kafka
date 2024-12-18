@@ -1,0 +1,3 @@
+/home/clovis/Documentos/projetos/venda-ingressos/src/main/java/com/clovisgargione/kafka/model/Venda.java
+/home/clovis/Documentos/projetos/venda-ingressos/src/main/java/com/clovisgargione/kafka/serializer/VendaSerializer.java
+/home/clovis/Documentos/projetos/venda-ingressos/src/main/java/com/clovisgargione/kafka/servico/GeradorVendas.java
